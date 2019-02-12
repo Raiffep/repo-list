@@ -1,0 +1,44 @@
+.product-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+}
+
+.product-info article {
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.product-info article h1 {
+    font-size: 32px;
+}
+
+.product-info article p {
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.product-info article p a {
+    color: #069;
+}
+
+.product-info .btPrevPage {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.product-info .btPrevPage button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #4695fc;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
